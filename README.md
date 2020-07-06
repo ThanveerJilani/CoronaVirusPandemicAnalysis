@@ -5,7 +5,7 @@ Day1 ====> Python Programming Beginner Fundamentals.
 
 Day2 ====> Python Programming Intermediate Fundamentals And GUI With TKinter.
 
-Day3 ====> Importing Csv , Xlrd Files And Introduction To Data Analysis With Pandas , Introduction To Data Visualization Using Matplotlib, Seaborn and Bokeh.
+Day3 ====> Importing CSV , XLRD Files And Introduction To Data Analysis With Pandas , Introduction To Data Visualization Using Matplotlib, Seaborn and Bokeh.
 
 Day4 ====> Introduction To Data Wrangling : Cleaning And Preparing The Data.
 
