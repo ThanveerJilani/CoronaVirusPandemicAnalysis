@@ -9,4 +9,4 @@ Day3 ====> Importing Csv , Xlrd Files And Introduction To Data Analysis With Pan
 
 Day4 ====> Introduction To Data Wrangling : Cleaning And Preparing The Data.
 
-Day5 ====> Introduction to Discrete Distribution , Binomial Distribution , Poisson Distribution , Time Series and Different Graphs.
+Day5 ====> Introduction to Discrete Distribution , Binomial Distribution , Poisson Distribution , Time Series And Different Visualization Graphs.
