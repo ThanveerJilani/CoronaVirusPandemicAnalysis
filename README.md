@@ -1,5 +1,5 @@
 # CoronaVirusPandemicAnalysis
-Pandemic Analytics using Machine Learning with Python.
+Pandemic Analytics Using Machine Learning With Python.
 
 Day1 ====> Python Programming Beginner Fundamentals.
 
