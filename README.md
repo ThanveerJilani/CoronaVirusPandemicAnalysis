@@ -11,8 +11,10 @@ Day4 ====> Introduction To Data Wrangling : Cleaning And Preparing The Data.
 
 Day5 ====> Introduction to Discrete Distribution , Binomial Distribution , Poisson Distribution , Time Series And Different Visualization Graphs.
 
-Day6 ===> Introduction To Correlations.
+Day6 ====> Introduction To Correlations.
 
-Day7 ===> Introduction To Machine Learning.
+Day7 ====> Introduction To Machine Learning.
 
-Day8 ===> Introduction To Regression , KNN Algorithms Of Machine Learning.
+Day8 ====> Introduction To Regression , KNN Algorithms Of Machine Learning.
+
+Day9 ====> Introduction to Decision Tree Algorithm And Support Vector Machine Algorithm.
