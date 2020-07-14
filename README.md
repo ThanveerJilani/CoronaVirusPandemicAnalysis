@@ -20,3 +20,7 @@ Day8 ====> Introduction To Regression , KNN Algorithms Of Machine Learning.
 Day9 ====> Introduction to Decision Tree Algorithm And Support Vector Machine Algorithm.
 
 Day10 ====> Python Programming Advanced Fundamentals.
+
+Day11 ====> Introduction To Deep Learning , Keras and Tensorflow Libraries.
+
+Day12 ====> The End.
